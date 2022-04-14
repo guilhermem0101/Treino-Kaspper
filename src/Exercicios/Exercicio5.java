@@ -28,7 +28,7 @@ public class Exercicio5 {
 		
 		valorTotal = numeroPecas1*valorPeca1 + numeroPecas2*valorPeca2;
 		
-		System.out.printf("o valor total apagar é %.2f", valorTotal);
+		System.out.printf("o valor total apagar é R$ %.2f", valorTotal);
 		
 		
 

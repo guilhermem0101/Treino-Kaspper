@@ -22,7 +22,7 @@ public class Exercicio4 {
 		
 	
 		
-		System.out.printf("O numero de fuuncionarios é %d e os salarios são de %.2f", numeroFuncionarios, salario);
+		System.out.printf("O numero de fuuncionarios é %d e os salarios são de R$ %.2f", numeroFuncionarios, salario);
 
 	}
 
